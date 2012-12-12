@@ -8,4 +8,4 @@ Script Placement
 
 It's entirely up to the user to determine where these scripts live.  Out of personal convention, I store them under /usr/local/bin/.
 
-NOTE: rtBatchReports.sh calls various scripts from /usr/local/bin.  Modfiy accordingly.
+NOTE: rtBatchReports.sh calls various scripts from /usr/local/bin.  Modify accordingly.
